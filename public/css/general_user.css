@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 Feb, 2018, 3:54:48 PM
+    Author     : vision
+*/
+
+.modal_u {
+    position: absolute;
+    top: 150px;
+    right: 1px;
+    bottom: 0;
+    left: 200px;
+    z-index: 10040;
+};
+
+.font_12 {
+    font-size: 16px;
+}
+
+._textcentre{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: small;
+}
+
+._blur{
+    filter: 'blur(4px)';
+    -webkit-filter: 'blur(4px)';
+}
+
+.swal-wide{
+    width:850px !important;
+}
